@@ -1,0 +1,42 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Model weights / checkpoints (download separately)
+*.pth
+*.pt
+pretrained/
+
+# Datasets
+datasets/
+
+# Inference / training outputs
+results/
+experiments/
+tb_logger/
+*.log
+
+# SLURM job logs / personal cluster job scripts
+*.err
+*.out
+slurm-*.out
+test_infer_hala.sbatch
+
+# Virtual environments
+.venv*/
+venv/
+env/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+.DS_Store
