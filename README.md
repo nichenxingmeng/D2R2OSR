@@ -1,6 +1,6 @@
 # D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution
 
-Official inference code for the ECCV 2026 paper
+Official inference code for the paper
 **"D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution"**.
 
 > Hongyu An, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong.
@@ -154,10 +154,10 @@ those repositories.
 ## Citation
 
 ```bibtex
-@inproceedings{an2026d2r2osr,
-  title     = {D{\textasciicircum}2R{\textasciicircum}2OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution},
-  author    = {An, Hongyu and Zhang, Xinfeng and Fan, Xu and Zhao, Shijie and Zhang, Li and Xiong, Ruiqin},
-  booktitle = {European Conference on Computer Vision (ECCV)},
-  year      = {2026}
+@article{an2026d2r2osr,
+  title   = {D{\textasciicircum}2R{\textasciicircum}2OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution},
+  author  = {An, Hongyu and Zhang, Xinfeng and Fan, Xu and Zhao, Shijie and Zhang, Li and Xiong, Ruiqin},
+  journal = {arXiv preprint arXiv:2606.29314},
+  year    = {2026}
 }
 ```
