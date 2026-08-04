@@ -47,6 +47,10 @@ The codebase is built on [BasicSR](https://github.com/XPixelGroup/BasicSR)
 (the project was originally forked from
 [OSRT](https://github.com/Fanghua-Yu/OSRT), CVPR 2023).
 
+<p align="center">
+  <img src="assets/framework.png" width="100%"/>
+</p>
+
 ## Status of this release
 
 > ⚠️ **Inference only, ×4 only, for now.** This repository currently ships the
