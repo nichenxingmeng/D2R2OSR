@@ -1,10 +1,31 @@
+<div align="center">
+
 # D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution
 
-Official inference code for the ECCV 2026 paper
-**"D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution"**.
+### 🎉 Accepted at ECCV 2026
 
-> Hongyu An, Xinfeng Zhang, Xu Fan, Shijie Zhao, Li Zhang, Ruiqin Xiong.
-> *University of Chinese Academy of Sciences · ByteDance Inc. · Peking University.*
+<div style="line-height: 1;">
+  <a href="https://arxiv.org/abs/2606.29314" target="_blank" style="margin: 2px;">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.29314-b31b1b.svg" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+</div>
+
+<h4>
+
+[Hongyu An](https://nichenxingmeng.github.io/)<sup>1</sup>,
+[Xinfeng Zhang](https://people.ucas.ac.cn/~csxfzhang)<sup>1</sup>,
+Xu Fan<sup>1</sup>,
+[Shijie Zhao](https://www.linkedin.com/in/shijie-zhao-bb017a110/)<sup>2</sup>,
+[Li Zhang](https://scholar.google.com/citations?user=8G5-2OMAAAAJ&hl=en)<sup>2</sup>,
+[Ruiqin Xiong](https://scholar.google.com/citations?user=46Rur-YAAAAJ&hl=en)<sup>3</sup>
+
+<sup>1</sup>University of Chinese Academy of Sciences &nbsp;&nbsp; <sup>2</sup>ByteDance Inc. &nbsp;&nbsp; <sup>3</sup>Peking University
+
+</h4>
+
+</div>
+
+<hr>
 
 Omnidirectional images (ODIs) suffer from a mix of real-world degradations
 (blur, noise, resize, compression) introduced during fisheye capture, plus
