@@ -51,6 +51,14 @@ The codebase is built on [BasicSR](https://github.com/XPixelGroup/BasicSR)
   <img src="assets/framework.png" width="100%"/>
 </p>
 
+## Results
+
+Qualitative ×4 comparison on real-world ERP ODIs:
+
+<p align="center">
+  <img src="assets/results.png" width="100%"/>
+</p>
+
 ## Status of this release
 
 > ⚠️ **Inference only, ×4 only, for now.** This repository currently ships the
