@@ -139,8 +139,6 @@ and **SUN360** — all ERP ODIs at 1024×2048.
   CVPR 2021).
 - SUN360: [Xiao et al., CVPR 2012](https://vision.princeton.edu/projects/2012/SUN360/).
 
-**TODO — add the exact train/test split files used in the paper.**
-
 For inference you only need HR (or already-degraded LR) ERP images at
 1024×2048 per the test configs' `gt_h`/`gt_w`.
 
